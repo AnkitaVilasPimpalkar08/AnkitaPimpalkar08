@@ -1,52 +1,88 @@
 # AnkitaPimpalkar08
 
 
-Ankita Vilas Pimpalkar
+ Ankita Vilas Pimpalkar
 
 Software Engineer | Data Scientist | AI/ML Engineer
-📍 Washington, D.C.
+📍 Washington, D.C., USA
 📧 ankitavilas.pimpalkar@gwu.edu
 🔗 LinkedIn￼
 🌐 Portfolio￼
+💻 GitHub￼
 
 ⸻
 
-👋 About Me
+Professional Summary
 
-I’m a Computer Science graduate student at George Washington University with hands-on experience building full-stack systems, real-time data pipelines, and applied machine learning solutions.
+I am a Computer Science graduate student at George Washington University with strong hands-on experience in full-stack software engineering, real-time data systems, and applied machine learning.
 
-My work sits at the intersection of:
-	•	Software Engineering (production systems, APIs, dashboards)
-	•	Data Engineering (ETL, real-time processing, databases)
-	•	Machine Learning (anomaly detection, deep learning, interpretability)
+My work focuses on building end-to-end systems — from data ingestion and backend APIs to machine learning models and user-facing dashboards. I enjoy working on technically complex problems where data quality, system reliability, and model interpretability matter as much as performance.
 
-I enjoy working on problems where data meets real users — especially systems that need to be reliable, interpretable, and scalable.
+I have professional experience across:
+	•	Academic research environments
+	•	Early-stage startups
+	•	Enterprise IT systems (Cognizant)
+
+This gives me a strong perspective on how systems evolve from prototypes to production-grade platforms.
 
 ⸻
 
-🎓 Education
+Core Areas of Interest
+	•	Full-Stack Software Engineering
+	•	Data Engineering & Analytics
+	•	Applied Machine Learning & Deep Learning
+	•	Real-time Systems & IoT
+	•	Interpretable and Trustworthy AI
 
-M.S. in Computer Science — George Washington University (2024–2026)
+⸻
+
+Education
+
+M.S. in Computer Science
+
+George Washington University, Washington, D.C. (2024 – 2026)
 Graduate Tuition Fellowship (Merit-based)
-Focus: Neural Networks, Software Engineering, Cloud Computing, Algorithms
 
-B.E. in Computer Science & Engineering — Chandigarh University (2016–2020)
-Focus: Machine Learning, Databases, Big Data, AI, Operating Systems
+Relevant Coursework:
+	•	Neural Networks & Deep Learning
+	•	Design & Analysis of Algorithms
+	•	Software Engineering
+	•	Cloud Computing
+	•	Component-Based Enterprise Software Development
+
+Research Focus:
+	•	Interpretable anomaly detection
+	•	Human-AI trust calibration
+	•	Privacy-aware behavioral modeling
 
 ⸻
 
-🛠️ Technical Skills
+B.E. in Computer Science & Engineering
 
-Programming
+Chandigarh University, India (2016 – 2020)
 
-Python · Java · JavaScript · PHP · SQL · PowerShell · HTML/CSS
+Relevant Coursework:
+	•	Machine Learning
+	•	Artificial Intelligence
+	•	Big Data Analytics
+	•	Data Warehousing
+	•	Database Management Systems
+	•	Operating Systems
 
-Machine Learning & Data
+⸻
 
-TensorFlow · PyTorch · Scikit-learn · OpenCV · Pandas · NumPy
-Random Forest · Isolation Forest · CNNs · PCA · K-Means
+Technical Skills
 
-Web & Frameworks
+Programming Languages
+
+Python · Java · JavaScript · PHP · SQL · PowerShell · HTML · CSS
+
+Machine Learning & Data Science
+
+TensorFlow · PyTorch · Scikit-learn · OpenCV · Pandas · NumPy · Matplotlib
+CNNs · Random Forest · Isolation Forest · PCA · K-Means
+
+Web & Application Development
 
 React · Vue.js · Node.js · CodeIgniter · REST APIs
 
@@ -65,98 +101,118 @@ ETL Pipelines · Real-time Data Processing · Data Warehousing · Query Optimiza
 
 ⸻
 
-💼 Professional Experience
+Professional Experience
 
 Research Assistant & Software Intern (AI/ML)
 
-George Washington University — Washington, D.C. (2024–Present)
-	•	Built a real-time anomaly detection system on Raspberry Pi using Python, MQTT, and Isolation Forest, processing 200,000+ sensor readings.
-	•	Reduced false positives from 47% → 30% while maintaining 92% recall using temporal modeling.
-	•	Developed an interactive Streamlit analytics dashboard for real-time monitoring and decision support.
-	•	Optimized edge ML deployment achieving 45% reduction in computational overhead on resource-constrained devices.
-	•	Designed and deployed academic research websites using HTML, CSS, JavaScript, WordPress.
+George Washington University — Washington, D.C. (2024 – Present)
+	•	Designed and implemented a real-time anomaly detection pipeline on Raspberry Pi using Python, MQTT, and Isolation Forest, processing 200,000+ sensor readings (temperature, humidity, motion).
+	•	Reduced false positives from 47% to 30% while maintaining 92% recall through temporal modeling and adaptive thresholds.
+	•	Built an interactive Streamlit analytics dashboard for real-time monitoring, anomaly interpretation, and data export.
+	•	Optimized edge ML deployment achieving 45% reduction in computational overhead on resource-constrained devices (Raspberry Pi 4, 1GB RAM).
+	•	Developed and maintained sensor-based data collection and processing modules supporting Systems Engineering coursework.
+	•	Designed and deployed academic research websites using HTML, CSS, JavaScript, and WordPress (GW Blogs).
 
 ⸻
 
 Software Engineer (Full-Stack)
 
-Alternative Structure Group / Friends-Square / Go-Scale (2022–2024)
-	•	Built production web systems for fintech and mental health platforms.
-	•	Designed MySQL schemas supporting 10,000+ users, improving query performance by 40%.
-	•	Developed full-stack features using Python, JavaScript, REST APIs.
-	•	Improved client retention by 35% through backend and UX improvements.
-	•	Led technical planning across teams, reducing iteration cycles by 25%.
+Alternative Structure Group / Friends-Square / Go-Scale (2022 – 2024)
+	•	Built production systems for fintech and mental-health platforms used by 10,000+ users.
+	•	Designed and optimized MySQL schemas, improving query performance and reducing page load times by 40%.
+	•	Implemented full-stack features using Python, JavaScript, REST APIs, and modern front-end frameworks.
+	•	Contributed to a 35% increase in client retention through backend performance and UX improvements.
+	•	Led technical roadmap planning, reducing release cycles by 25%.
 
 ⸻
 
 Programmer Analyst
 
-Cognizant Technology Solutions (2021–2022)
-	•	Deployed 100+ enterprise applications using PowerShell & SCCM for 10,000+ users.
+Cognizant Technology Solutions (2021 – 2022)
+	•	Deployed 100+ enterprise applications using PowerShell and SCCM for 10,000+ users.
 	•	Automated provisioning workflows, reducing setup time by 40%.
-	•	Managed production SQL systems with 10,000+ records.
+	•	Managed SQL databases with 10,000+ records, ensuring system reliability and performance.
 
 ⸻
 
-🚀 Featured Projects
+Selected Projects
 
-🔹 Real-Time Anomaly Detection System
+Real-Time Anomaly Detection System
 
 Python · Streamlit · MQTT · Isolation Forest
-➡️ Real-time streaming ML system for IoT monitoring with temporal validation.
-	•	Edge-friendly pipeline (10-sample rolling window)
-	•	Live dashboard for anomaly interpretation
-	•	Focus on ML interpretability and trust
+
+A production-style ML system for real-time IoT monitoring.
+	•	Built streaming pipeline with temporal consistency checks.
+	•	Edge-friendly deployment (1GB RAM constraint).
+	•	Interactive dashboard for anomaly interpretation.
+	•	Focus on model explainability and trust calibration.
 
 ⸻
 
-🔹 GreenShoes – E-Commerce Platform
+GreenShoes – E-Commerce Platform
 
 React · Node.js · PostgreSQL · REST APIs
-➡️ Full-stack e-commerce system with cart, auth, inventory, and orders.
+
+Full-stack e-commerce application.
+	•	Product catalog, filtering, cart, authentication.
+	•	Order management and inventory tracking.
+	•	Modern responsive UI using Tailwind CSS.
 
 ⸻
 
-🔹 Environmental Sound Classification
+Environmental Sound Classification
 
-TensorFlow · CNN · Next.js · Modal (GPU)
-➡️ Deep learning pipeline for audio classification (ESC-50 dataset).
-	•	Cloud GPU training
-	•	Deployed inference API
-	•	Confidence-based predictions
+TensorFlow · CNN · Modal (GPU) · Next.js
 
-⸻
-
-🔹 Handwritten Character Recognition
-
-TensorFlow · OpenCV · CNNs
-	•	Built CNN-based handwriting recognition model
-	•	Used data augmentation to improve accuracy by 25%
-	•	Achieved 70% accuracy on small dataset
-	•	Analyzed generalization and model confidence
+Deep learning system for audio classification (ESC-50 dataset).
+	•	End-to-end pipeline: preprocessing → training → deployment.
+	•	Cloud GPU training on Modal (A10G).
+	•	Deployed inference API with confidence scores.
 
 ⸻
 
-🔍 What I’m Looking For
+Handwritten Character Recognition
 
-I’m actively seeking roles in:
+TensorFlow · CNN · OpenCV
+	•	Built CNN-based handwriting recognition model.
+	•	Applied data augmentation to improve accuracy by 25%.
+	•	Achieved 70% accuracy on small dataset.
+	•	Analyzed generalization and model confidence.
+
+⸻
+
+What I’m Looking For
+
+I’m actively seeking full-time opportunities in:
 	•	Software Engineering
 	•	Data Engineering / Data Science
 	•	Machine Learning / AI Engineering
 
-Where I can work on:
-	•	Real systems
-	•	Real users
-	•	Real data problems
+Where I can:
+	•	Work on real systems with real users
+	•	Build scalable, production-quality software
+	•	Apply ML in practical, high-impact settings
 
 ⸻
 
-📫 Let’s Connect
+Why This GitHub Exists
 
-If you’re a recruiter, engineer, or researcher — feel free to reach out:
+This GitHub is my engineering portfolio.
+
+It reflects:
+	•	How I design systems
+	•	How I structure code
+	•	How I think about data and ML
+	•	How I document and communicate technical work
+
+Everything here is built with the mindset of:
+
+“Would this survive in a real production environment?”
+
+⸻
+
+Let’s Connect
 
 📧 ankitavilas.pimpalkar@gwu.edu
 🔗 LinkedIn: https://www.linkedin.com/in/ankita-pimpalkar-7510a9174/
 🌐 Portfolio: https://ankitavilaspimpalkarportfolio.netlify.app/
-
-⸻
